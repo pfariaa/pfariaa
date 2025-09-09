@@ -1,7 +1,8 @@
 # Sobre mim
 Programador Full Stack em PHP | MySQL | expertise em JavaScript | CSS com experiência em Bootstrap | Git, API.
+Atualmente atuando como Assistente de Programação na Fundação Butantan.
 
-Atualmente atuando como Assistente de Programação na Fundação Butantan
+
 ---
 
 ## Tecnologias que domino
@@ -32,7 +33,8 @@ Atualmente atuando como Assistente de Programação na Fundação Butantan
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🌐 Redes Sociais
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsfIHZyv6SVCVflKOPi%2Brug%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsfIHZyv6SVCVflKOPi%2Brug%3D%3D)
+
 
 ---
 
