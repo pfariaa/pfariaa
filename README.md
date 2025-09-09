@@ -35,17 +35,11 @@ Atualmente atuando como Assistente de Programação na Fundação Butantan.
 ### 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsfIHZyv6SVCVflKOPi%2Brug%3D%3D)
 
-
----
-
 ## 🔧 Outras habilidades
 - APIs RESTful e consumo de APIs externas  
 - Controle de versão com Git e GitHub  
 - Criação de sistemas full stack  
 - Boas práticas de programação 
-
----
-
 
 ## 🎯 Objetivo
 Atuar como Programador Júnior. Atualmente ocupo o posto de Assistente de Programação na Fundação Butantan, contribuindo com soluções eficientes e escaláveis, enquanto continuo evoluindo minhas habilidades em novas tecnologias
